@@ -1,0 +1,16 @@
+# Herramientas
+
+ - Git
+ - GitHub
+ - Java (Lenguaje de programacion)
+ - Maven (Gestor de dependencias)
+ - SpringBoot (Framework)
+ - MongoDB (Base de datos)
+ - Mongo Compass (GUI de Mongo)
+ - Postman (Probar API)
+ - Dependencias en maven
+   - Lombok
+   - MongoDB
+   - DevTools
+   - Spring web
+   - Spring DotEnv
